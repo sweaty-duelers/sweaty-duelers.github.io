@@ -1,15 +1,19 @@
-<link rel="stylesheet" type="text/css" href="main.css" />
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="main.css" /> 
+</head>
+
 
 <div class="datatable-container">
   <!-- ======= Header tools ======= -->
   <div class="header-tools">
-    <link rel="stylesheet" type="text/css" href="main.css" />
 
 
 
   <!-- ======= Table ======= -->
   <table class="datatable">
-    <link rel="stylesheet" type="text/css" href="main.css" />
  
 
     <tbody>
