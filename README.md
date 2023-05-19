@@ -31,15 +31,15 @@
       </tr>
 
       <tr>
-        <td><p style="color:#8788EE">Sangrail</p></td>
-        <td>1550</td>
-        <td>3-2</td>
+        <td><p style="color:#8788EE">Gonnafistya</p></td>
+        <td>1532</td>
+        <td>4-2</td>
       </tr>
 
       <tr>
-        <td><p style="color:#8788EE">Sangrail</p></td>
-        <td>1550</td>
-        <td>3-2</td>
+        <td><p style="color:#FF7C0A ">Kuub</p></td>
+        <td>1529</td>
+        <td>3-1</td>
       </tr>
         
       <tr>
