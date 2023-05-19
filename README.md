@@ -1,6 +1,3 @@
-<body style="background-color:#35393e;">
-</body>
-
 <div class="datatable-container">
   <!-- ======= Header tools ======= -->
   <div class="header-tools">
