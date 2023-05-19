@@ -2,29 +2,9 @@
   <!-- ======= Header tools ======= -->
   <div class="header-tools">
     <div class="tools">
-      <ul>
-        <li>
-          <button>
-            <i class="material-icons">add_circle</i>
-          </button>
-        </li>
-        <li>
-          <button>
-            <i class="material-icons">edit</i>
-          </button>
-        </li>
-        <li>
-          <button>
-            <i class="material-icons">delete</i>
-          </button>
-        </li>
-      </ul>
-    </div>
-
-    <div class="search">
-      <input type="search" class="search-input" placeholder="Search..." />
     </div>
   </div>
+
 
   <!-- ======= Table ======= -->
   <table class="datatable">
