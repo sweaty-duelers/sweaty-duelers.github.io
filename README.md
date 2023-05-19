@@ -9,7 +9,7 @@
 
 <div class="datatable-container">
 
-
+<center>
   <!-- ======= Table ======= -->
   <table class="datatable">
  
@@ -59,5 +59,7 @@
         
     </tbody>
   </table>
+
+</center>
 
 </div>
