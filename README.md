@@ -1,33 +1,17 @@
 <link rel="stylesheet" type="text/css" href="main.css" />
+
 <div class="datatable-container">
   <!-- ======= Header tools ======= -->
   <div class="header-tools">
-    <div class="tools">
-    </div>
-  </div>
+
 
 
   <!-- ======= Table ======= -->
   <table class="datatable">
-    <thead>
-      <tr>
-        <th><input type="checkbox" /></th>
-        <th>Status</th>
-        <th>First name</th>
-        <th>Last name</th>
-        <th>Job title</th>
-        <th>Email</th>
-        <th>Username</th>
-        <th>Location</th>
-        <th>Birthday</th>
-      </tr>
-    </thead>
+ 
 
     <tbody>
       <tr>
-        <td>
-          <input type="checkbox" />
-        </td>
         <td><span class="available"></span></td>
         <td>John</td>
         <td>Smith</td>
@@ -39,9 +23,6 @@
       </tr>
 
       <tr>
-        <td>
-          <input type="checkbox" />
-        </td>
         <td><span class="away"></span></td>
         <td>George</td>
         <td>Lucas</td>
@@ -53,9 +34,6 @@
       </tr>
 
       <tr>
-        <td>
-          <input type="checkbox" />
-        </td>
         <td><span class="offline"></span></td>
         <td>Peter</td>
         <td>Rabit</td>
@@ -67,9 +45,6 @@
       </tr>
 
       <tr>
-        <td>
-          <input type="checkbox" />
-        </td>
         <td><span class="offline"></span></td>
         <td>Elizabeth</td>
         <td>Taylor</td>
@@ -81,9 +56,6 @@
       </tr>
 
       <tr>
-        <td>
-          <input type="checkbox" />
-        </td>
         <td><span class="offline"></span></td>
         <td>Catherine</td>
         <td>Jones</td>
