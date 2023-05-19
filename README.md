@@ -21,13 +21,13 @@
       <tr>
         <td><p style="color:#8788EE">Sangrail</p></td>
         <td>1550</td>
-        <td>3-2</td>
+        <td>3-0</td>
       </tr>
 
       <tr>
-        <td><p style="color:#8788EE">Sangrail</p></td>
-        <td>1550</td>
-        <td>3-2</td>
+        <td><p style="color:#F48CBA ">Feganmox</p></td>
+        <td>1543</td>
+        <td>4-1</td>
       </tr>
 
       <tr>
