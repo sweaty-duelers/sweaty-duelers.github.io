@@ -47,6 +47,18 @@
         <td>1550</td>
         <td>3-2</td>
       </tr>
+       
+       <tr>
+        <td><p style="color:#8788EE">Sangrail</p></td>
+        <td>1550</td>
+        <td>3-2</td>
+      </tr>
+        
+      <tr>
+        <td><p style="color:#8788EE">Sangrail</p></td>
+        <td>1550</td>
+        <td>3-2</td>
+      </tr>
         
     </tbody>
   </table>
