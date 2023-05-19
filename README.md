@@ -3,11 +3,13 @@
 <div class="datatable-container">
   <!-- ======= Header tools ======= -->
   <div class="header-tools">
+    <link rel="stylesheet" type="text/css" href="main.css" />
 
 
 
   <!-- ======= Table ======= -->
   <table class="datatable">
+    <link rel="stylesheet" type="text/css" href="main.css" />
  
 
     <tbody>
