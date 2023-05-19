@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="main.css" /> 
 </head>
 
-<body style="background-color:aquamarine;">
+<body style="background-color:#2a3338;">
 
 <div class="datatable-container">
   <!-- ======= Header tools ======= -->
