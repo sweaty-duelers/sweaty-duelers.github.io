@@ -1,6 +1,7 @@
 :root {
   --primary-color: white;
   --secondary-color: rgb(61, 68, 73);
+  --bg-color: #2a3338;
   --highlight-color: #3282b8;
 
   --dt-status-available-color: greenyellow;
@@ -21,7 +22,7 @@
   --dt-text-color-button: var(--primary-color);
   --dt-text-color-active-button: var(--primary-color);
   --dt-hover-cell-color: var(--highlight-color);
-  --dt-even-row-color: var(--secondary-color);
+  --dt-even-row-color: var(--bg-color);
   --dt-focus-color: var(--highlight-color);
   --dt-input-background-color: var(--secondary-color);
   --dt-input-color: var(--primary-color);
