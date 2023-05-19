@@ -25,13 +25,13 @@
       </tr>
 
       <tr>
-        <td><p style="color:#F48CBA ">Feganmox</p></td>
+        <td><p style="color:#F48CBA">Feganmox</p></td>
         <td>1543</td>
         <td>4-1</td>
       </tr>
 
       <tr>
-        <td><p style="color:#8788EE">Gonnafistya</p></td>
+        <td><p style="color:#F48CBA">Gonnafistya</p></td>
         <td>1532</td>
         <td>4-2</td>
       </tr>
