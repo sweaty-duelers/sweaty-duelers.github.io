@@ -19,59 +19,35 @@
 
     <tbody>
       <tr>
-        <td><span class="available"></span></td>
         <td><p style="color:#8788EE">Sangrail</p></td>
         <td>1550</td>
         <td>3-2</td>
-        <td>john.smith@codepen.io</td>
-        <td>JohnSmith</td>
-        <td>Spain</td>
-        <td>January 21, 1984</td>
       </tr>
 
       <tr>
-        <td><span class="away"></span></td>
-        <td>George</td>
-        <td>Lucas</td>
-        <td>Scrum Master</td>
-        <td>george.lucas@codepen.io</td>
-        <td>GeorgeLucas</td>
-        <td>Switzerland</td>
-        <td>July 14, 1974</td>
+        <td><p style="color:#8788EE">Sangrail</p></td>
+        <td>1550</td>
+        <td>3-2</td>
       </tr>
 
       <tr>
-        <td><span class="offline"></span></td>
-        <td>Peter</td>
-        <td>Rabit</td>
-        <td>Software engineer</td>
-        <td>peter.rabit@codepen.io</td>
-        <td>PeterRabit</td>
-        <td>Ireland</td>
-        <td>September 02, 1977</td>
+        <td><p style="color:#8788EE">Sangrail</p></td>
+        <td>1550</td>
+        <td>3-2</td>
       </tr>
 
       <tr>
-        <td><span class="offline"></span></td>
-        <td>Elizabeth</td>
-        <td>Taylor</td>
-        <td>UX Designer</td>
-        <td>elizabeth.taylor@codepen.io</td>
-        <td>ElizabethTaylor</td>
-        <td>London</td>
-        <td>February 27, 1982</td>
+        <td><p style="color:#8788EE">Sangrail</p></td>
+        <td>1550</td>
+        <td>3-2</td>
       </tr>
-
+        
       <tr>
-        <td><span class="offline"></span></td>
-        <td>Catherine</td>
-        <td>Jones</td>
-        <td>QA tester</td>
-        <td>catherine.jones@codepen.io</td>
-        <td>CatherineJones</td>
-        <td>USA</td>
-        <td>December 07, 1978</td>
+        <td><p style="color:#8788EE">Sangrail</p></td>
+        <td>1550</td>
+        <td>3-2</td>
       </tr>
+        
     </tbody>
   </table>
 
