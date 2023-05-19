@@ -20,9 +20,9 @@
     <tbody>
       <tr>
         <td><span class="available"></span></td>
-        <td><p style="color:#FF0000";>Red paragraph text</p></td>
-        <td>Smith</td>
-        <td>Product Owner</td>
+        <td><p style="color:#8788EE ";>Sangrail</p></td>
+        <td>1550</td>
+        <td>3-2</td>
         <td>john.smith@codepen.io</td>
         <td>JohnSmith</td>
         <td>Spain</td>
