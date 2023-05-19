@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="main.css" />
 <div class="datatable-container">
   <!-- ======= Header tools ======= -->
   <div class="header-tools">
