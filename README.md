@@ -8,9 +8,6 @@
 <body style="background-color:#2a3338;">
 
 <div class="datatable-container">
-  <!-- ======= Header tools ======= -->
-  <div class="header-tools">
-
 
 
   <!-- ======= Table ======= -->
