@@ -2,6 +2,6 @@
 </body>
 
 
-<span style="color:#8788EE ">some Sangrail text</span> 1550
+<span style="color:#8788EE "> Sangrail </span> 1550
  Sangrail  1550  3-0 
  Feganmox  1543  4-1 
