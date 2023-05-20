@@ -34,9 +34,9 @@
       </tr>
 
       <tr>
-        <td><p style="color:#F48CBA">Feganmox</p></td>
-        <td>1543</td>
-        <td>4 - 1</td>
+        <td><b><p style="color:#F48CBA">Feganmox</p></b></td>
+        <td><b>1543</b></td>
+        <td><b>4 - 1</b></td>
       </tr>
 
       <tr>
