@@ -41,7 +41,7 @@
       <tr height="5px">
         <td><b><p style="color:#8788EE">Sangrail</p></b></td>
         <td><b>1550</b></td>
-          <td><b><span class="greentxt">3</span> - <span class="redtxt">2</span></b></td>
+          <td><b><span class="greentxt">3</span> - <span class="redtxt">0</span></b></td>
       </tr>
 
       <tr>
