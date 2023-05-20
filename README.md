@@ -64,6 +64,24 @@
         <td>0-1</td>
       </tr>
         
+      <tr>
+        <td><p style="color:#FFF468">Unmercey</p></td>
+        <td>1485</td>
+        <td>0-1</td>
+      </tr>
+        
+      <tr>
+        <td><p style="color:#3FC7EB">Icetouch</p></td>
+        <td>1484</td>
+        <td>0-1</td>
+      </tr>
+        
+      <tr>
+        <td><p style="color:#F48CBA">Qax</p></td>
+        <td>1484</td>
+        <td>0-1</td>
+      </tr>
+        
     </tbody>
   </table>
 
