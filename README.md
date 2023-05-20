@@ -44,9 +44,9 @@
       </tr>
         
       <tr>
-        <td><p style="color:#8788EE">Sangrail</p></td>
-        <td>1550</td>
-        <td>3-2</td>
+        <td><p style="color:#FF7C0A">Putti</p></td>
+        <td>1515</td>
+        <td>2-1</td>
       </tr>
        
        <tr>
