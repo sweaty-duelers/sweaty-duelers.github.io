@@ -30,7 +30,7 @@
       <tr height="5px">
         <td><b><p style="color:#8788EE">Sangrail</p></b></td>
         <td><b>1550</b></td>
-        <td><b>3 - 0</b></td>
+          <td><b><p style="color:#50C878">3</p> - <p style="color:#EE4B2B">0</p></b></td>
       </tr>
 
       <tr>
