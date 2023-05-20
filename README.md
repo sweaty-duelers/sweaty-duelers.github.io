@@ -59,7 +59,7 @@
       </tr>
         
       <tr>
-        <td><p style="color:#8788EE">Shamaw</p></td>
+        <td><p style="color:#0070DD">Shamaw</p></td>
         <td>1486</td>
         <td>0-1</td>
       </tr>
