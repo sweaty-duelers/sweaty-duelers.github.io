@@ -26,7 +26,7 @@
         <td> </td>
       </tr>
         
-      <tr>
+      <tr height="10px">
         <td><b><p style="color:#8788EE">Sangrail</p></b></td>
         <td><b>1550</b></td>
         <td><b>3 - 0</b></td>
