@@ -59,73 +59,73 @@
       <tr>
         <td><b><p style="color:#FF7C0A ">Kuub</p></b></td>
         <td><b>1529</b></td>
-        <td><b>3 - 1</b></td>
+        <td height="2px"><b><span class="greentxt">3</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
         <td><b><p style="color:#FF7C0A">Putti</p></b></td>
         <td><b>1515</b></td>
-        <td><b>2 - 1</b></td>
+        <td height="2px"><b><span class="greentxt">2</span> - <span class="redtxt">1</span></b></td>
       </tr>
        
        <tr>
         <td><b><p style="color:#FFFFFF ">Naviah</p></b></td>
         <td><b>1486</b></td>
-        <td><b>1 - 2</b></td>
+        <td height="2px"><b><span class="greentxt">1</span> - <span class="redtxt">2</span></b></td>
       </tr>
         
       <tr>
         <td><b><p style="color:#0070DD">Shamaw</p></b></td>
         <td><b>1486</b></td>
-        <td><b>0 - 1</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
         <td><b><p style="color:#FFF468">Unmercey</p></b></td>
         <td><b>1485</b></td>
-        <td><b>0 - 1</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
         <td><b><p style="color:#3FC7EB">Icetouch</p></b></td>
         <td><b>1484</b></td>
-        <td><b>0 - 1</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
         <td><b><p style="color:#F48CBA">Qax</p></b></td>
         <td><b>1484</b></td>
-        <td><b>0 - 1</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
         <td><b><p style="color:#FFFFFF">Healingdog</p></b></td>
         <td><b>1484</b></td>
-        <td><b>0 - 1</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
         <td><b><p style="color:#FFFFFF">Chikago</p></b></td>
         <td><b>1484</b></td>
-        <td><b>0 - 1</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
         <td><b><p style="color:#0070DD">Maorri</p></b></td>
         <td><b>1484</b></td>
-        <td><b>0 - 1</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
         <td><b><p style="color:#FF7C0A">Loomypompayo</p></b></td>
         <td><b>1484</b></td>
-        <td><b>0 - 1</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
         <td><b><p style="color:#FFF468">Freedy</p></b></td>
         <td><b>1470</b></td>
-        <td><b>0 - 2</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">2</span></b></td>
       </tr>
         
     </tbody>
