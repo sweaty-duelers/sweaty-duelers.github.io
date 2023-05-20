@@ -5,6 +5,15 @@
     <link rel="stylesheet" type="text/css" href="main.css" /> 
 </head>
 
+.image {
+  width: 333px;
+  height: 187px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 1;
+}
+
 <center>
 <img src="Arthas_Aufmacher-buffed-pc-games4mod.jpg" alt="Trulli" width="333" height="187">
 </center>
