@@ -168,11 +168,11 @@
 .datatable-container .datatable th {
   font-weight: bolder;
   text-align: left;
-  border-bottom: solid 0px var(--dt-border-color);
+  border-bottom: solid 1px var(--dt-border-color);
 }
 
 .datatable-container .datatable td {
-  border-bottom: solid 0px var(--dt-border-color);
+  border-bottom: solid 1px var(--dt-border-color);
 }
 
 .datatable-container .datatable tbody tr:nth-child(even) {
