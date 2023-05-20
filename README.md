@@ -25,61 +25,61 @@
       <tr>
         <td><p style="color:#8788EE">Sangrail</p></td>
         <td>1550</td>
-        <td>3-0</td>
+        <td>3 - 0</td>
       </tr>
 
       <tr>
         <td><p style="color:#F48CBA">Feganmox</p></td>
         <td>1543</td>
-        <td>4-1</td>
+        <td>4 - 1</td>
       </tr>
 
       <tr>
         <td><p style="color:#F48CBA">Gonnafistya</p></td>
         <td>1532</td>
-        <td>4-2</td>
+        <td>4 - 2</td>
       </tr>
 
       <tr>
         <td><p style="color:#FF7C0A ">Kuub</p></td>
         <td>1529</td>
-        <td>3-1</td>
+        <td>3 - 1</td>
       </tr>
         
       <tr>
         <td><p style="color:#FF7C0A">Putti</p></td>
         <td>1515</td>
-        <td>2-1</td>
+        <td>2 - 1</td>
       </tr>
        
        <tr>
         <td><p style="color:#FFFFFF ">Naviah</p></td>
         <td>1486</td>
-        <td>1-2</td>
+        <td>1 - 2</td>
       </tr>
         
       <tr>
         <td><p style="color:#0070DD">Shamaw</p></td>
         <td>1486</td>
-        <td>0-1</td>
+        <td>0 - 1</td>
       </tr>
         
       <tr>
         <td><p style="color:#FFF468">Unmercey</p></td>
         <td>1485</td>
-        <td>0-1</td>
+        <td>0 - 1</td>
       </tr>
         
       <tr>
         <td><p style="color:#3FC7EB">Icetouch</p></td>
         <td>1484</td>
-        <td>0-1</td>
+        <td>0 - 1</td>
       </tr>
         
       <tr>
         <td><p style="color:#F48CBA">Qax</p></td>
         <td>1484</td>
-        <td>0-1</td>
+        <td>0 - 1</td>
       </tr>
         
     </tbody>
