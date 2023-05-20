@@ -15,6 +15,10 @@
  
 
     <tbody>
+        
+      <tr>
+      </tr>
+        
       <tr>
         <td><p style="color:#8788EE">Sangrail</p></td>
         <td>1550</td>
