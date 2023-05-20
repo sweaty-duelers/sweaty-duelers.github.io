@@ -25,8 +25,8 @@
       <tr>
         <div style="height: 20px; overflow:hidden;">
         <td><b><p style="color:#8788EE">Sangrail</p></td></b>
-        <td>1550</td>
-        <td>3 - 0</td>
+        <td><b>1550</b></td>
+        <td><b>3 - 0</b></td>
         </div>
       </tr>
 
