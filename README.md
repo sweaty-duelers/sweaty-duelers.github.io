@@ -59,9 +59,9 @@
       </tr>
         
       <tr>
-        <td><p style="color:#8788EE">Sangrail</p></td>
-        <td>1550</td>
-        <td>3-2</td>
+        <td><p style="color:#8788EE">Shamaw</p></td>
+        <td>1486</td>
+        <td>0-1</td>
       </tr>
         
     </tbody>
