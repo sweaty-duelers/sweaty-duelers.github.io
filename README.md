@@ -5,6 +5,18 @@
     <link rel="stylesheet" type="text/css" href="main.css" /> 
 </head>
 
+<style>
+    .redText
+    {
+        color:red;
+    }
+    .blackText
+    {
+        color:black;
+        font-weight:bold;
+    }
+</style>
+
 <center>
 <img src="Arthas_Aufmacher-buffed-pc-games4mod.jpg" alt="Trulli" width="333" height="187" class="image">
 </center>
@@ -30,7 +42,7 @@
       <tr height="5px">
         <td><b><p style="color:#8788EE">Sangrail</p></b></td>
         <td><b>1550</b></td>
-          <td><b><p style="color:#50C878">3</p> - <p style="color:#EE4B2B">0</p></b></td>
+          <td><b><span class="redText">3</span> - <span class="blackText">2</span></b></td>
       </tr>
 
       <tr>
