@@ -23,7 +23,7 @@
       </tr>
         
       <tr>
-        <td><b><p style="color:#8788EE">Sangrail</p></td></b>
+        <td><div style="height: 50px; overflow:hidden;"><b><p style="color:#8788EE">Sangrail</p></div></td></b>
         <td><b>1550</b></td>
         <td><b>3 - 0</b></td>
       </tr>
