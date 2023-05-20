@@ -27,9 +27,9 @@
       </tr>
         
       <tr>
-        <td><div style="height: 20px"><b><p style="color:#8788EE">Sangrail</p></div></b></td>
-        <td><div style="height: 20px"><b>1550</div></b></td>
-        <td><div style="height: 20px"><b>3 - 0</div></b></td>
+          <td><b><p style="color:#8788EE">Sangrail</p></b></td>
+        <td><b>1550</b></td>
+        <td><b>3 - 0</b></td>
       </tr>
 
       <tr>
