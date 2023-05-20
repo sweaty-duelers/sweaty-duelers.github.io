@@ -8,12 +8,11 @@
 <style>
     .redText
     {
-        color:red;
+        color:#EE4B2B;
     }
     .blackText
     {
-        color:black;
-        font-weight:bold;
+        color:#50C878;
     }
 </style>
 
