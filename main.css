@@ -8,9 +8,9 @@
   --dt-status-away-color: lightsalmon;
   --dt-status-offline-color: lightgray;
 
-  --dt-padding: 4px;
-  --dt-padding-s: 3px;
-  --dt-padding-xs: 2px;
+  --dt-padding: 0px;
+  --dt-padding-s: 0px;
+  --dt-padding-xs: 0px;
 
   --dt-border-radius: 4px;
 
