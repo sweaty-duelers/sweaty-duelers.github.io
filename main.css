@@ -37,6 +37,16 @@
   z-index: 1;
 }
 
+.redtxt
+    {
+        color:red;
+    }
+.greentxt
+    {
+        color:green;
+        font-weight:bold;
+    }
+
 .material-icons {
   font-size: 10px;
 }
