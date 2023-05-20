@@ -51,81 +51,81 @@
       </tr>
 
       <tr>
-        <td><p style="color:#F48CBA">Gonnafistya</p></td>
-        <td>1532</td>
-        <td>4 - 2</td>
+        <td><b><p style="color:#F48CBA">Gonnafistya</p></b></td>
+        <td><b>1532</b></td>
+        <td><b>4 - 2</b></td>
       </tr>
 
       <tr>
-        <td><p style="color:#FF7C0A ">Kuub</p></td>
-        <td>1529</td>
-        <td>3 - 1</td>
+        <td><b><p style="color:#FF7C0A ">Kuub</p></b></td>
+        <td><b>1529</b></td>
+        <td><b>3 - 1</b></td>
       </tr>
         
       <tr>
-        <td><p style="color:#FF7C0A">Putti</p></td>
-        <td>1515</td>
-        <td>2 - 1</td>
+        <td><b><p style="color:#FF7C0A">Putti</p></b></td>
+        <td><b>1515</b></td>
+        <td><b>2 - 1</b></td>
       </tr>
        
        <tr>
-        <td><p style="color:#FFFFFF ">Naviah</p></td>
-        <td>1486</td>
-        <td>1 - 2</td>
+        <td><b><p style="color:#FFFFFF ">Naviah</p></b></td>
+        <td><b>1486</b></td>
+        <td><b>1 - 2</b></td>
       </tr>
         
       <tr>
-        <td><p style="color:#0070DD">Shamaw</p></td>
-        <td>1486</td>
-        <td>0 - 1</td>
+        <td><b><p style="color:#0070DD">Shamaw</p></b></td>
+        <td><b>1486</b></td>
+        <td><b>0 - 1</b></td>
       </tr>
         
       <tr>
-        <td><p style="color:#FFF468">Unmercey</p></td>
-        <td>1485</td>
-        <td>0 - 1</td>
+        <td><b><p style="color:#FFF468">Unmercey</p></b></td>
+        <td><b>1485</b></td>
+        <td><b>0 - 1</b></td>
       </tr>
         
       <tr>
-        <td><p style="color:#3FC7EB">Icetouch</p></td>
-        <td>1484</td>
-        <td>0 - 1</td>
+        <td><b><p style="color:#3FC7EB">Icetouch</p></b></td>
+        <td><b>1484</b></td>
+        <td><b>0 - 1</b></td>
       </tr>
         
       <tr>
-        <td><p style="color:#F48CBA">Qax</p></td>
-        <td>1484</td>
-        <td>0 - 1</td>
+        <td><b><p style="color:#F48CBA">Qax</p></b></td>
+        <td><b>1484</b></td>
+        <td><b>0 - 1</b></td>
       </tr>
         
       <tr>
-        <td><p style="color:#FFFFFF">Healingdog</p></td>
-        <td>1484</td>
-        <td>0 - 1</td>
+        <td><b><p style="color:#FFFFFF">Healingdog</p></b></td>
+        <td><b>1484</b></td>
+        <td><b>0 - 1</b></td>
       </tr>
         
       <tr>
-        <td><p style="color:#FFFFFF">Chikago</p></td>
-        <td>1484</td>
-        <td>0 - 1</td>
+        <td><b><p style="color:#FFFFFF">Chikago</p></b></td>
+        <td><b>1484</b></td>
+        <td><b>0 - 1</b></td>
       </tr>
         
       <tr>
-        <td><p style="color:#0070DD">Maorri</p></td>
-        <td>1484</td>
-        <td>0 - 1</td>
+        <td><b><p style="color:#0070DD">Maorri</p></b></td>
+        <td><b>1484</b></td>
+        <td><b>0 - 1</b></td>
       </tr>
         
       <tr>
-        <td><p style="color:#FF7C0A">Loomypompayo</p></td>
-        <td>1484</td>
-        <td>0 - 1</td>
+        <td><b><p style="color:#FF7C0A">Loomypompayo</p></b></td>
+        <td><b>1484</b></td>
+        <td><b>0 - 1</b></td>
       </tr>
         
       <tr>
-        <td><p style="color:#FFF468">Freedy</p></td>
-        <td>1470</td>
-        <td>0 - 2</td>
+        <td><b><p style="color:#FFF468">Freedy</p></b></td>
+        <td><b>1470</b></td>
+        <td><b>0 - 2</b></td>
       </tr>
         
     </tbody>
