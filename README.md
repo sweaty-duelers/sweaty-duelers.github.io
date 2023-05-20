@@ -15,7 +15,7 @@
 }
 
 <center>
-<img src="Arthas_Aufmacher-buffed-pc-games4mod.jpg" alt="Trulli" width="333" height="187">
+<img src="Arthas_Aufmacher-buffed-pc-games4mod.jpg" alt="Trulli" width="333" height="187" class="image">
 </center>
 
 <body style="background-color:#2a3338;">
