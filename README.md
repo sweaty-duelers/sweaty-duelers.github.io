@@ -50,9 +50,9 @@
       </tr>
        
        <tr>
-        <td><p style="color:#8788EE">Sangrail</p></td>
-        <td>1550</td>
-        <td>3-2</td>
+        <td><p style="color:#FFFFFF ">Naviah</p></td>
+        <td>1486</td>
+        <td>1-2</td>
       </tr>
         
       <tr>
