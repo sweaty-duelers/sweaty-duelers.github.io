@@ -154,7 +154,7 @@
 
 .datatable-container .datatable {
   border-collapse: collapse;
-  height : 5px;
+  height : 2px;
   width: 30%;
 }
 
@@ -167,11 +167,11 @@
 .datatable-container .datatable th {
   font-weight: bolder;
   text-align: left;
-  border-bottom: solid 1px var(--dt-border-color);
+  border-bottom: solid 0px var(--dt-border-color);
 }
 
 .datatable-container .datatable td {
-  border-bottom: solid 1px var(--dt-border-color);
+  border-bottom: solid 0px var(--dt-border-color);
 }
 
 .datatable-container .datatable tbody tr:nth-child(even) {
@@ -210,8 +210,8 @@
   content: "";
   display: inline-block;
   width: 5px;
-  height: 5px;
-  margin-right: 2px;
+  height: 2px;
+  margin-right: 0px;
   border-radius: 10%;
   vertical-align: middle;
 }
