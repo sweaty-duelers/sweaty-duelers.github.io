@@ -51,6 +51,7 @@
   min-width: 950px;
   margin: 0 auto;
   font-size: 14px;
+  line-height: 5px;
 }
 
 .datatable-container .header-tools {
