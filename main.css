@@ -157,6 +157,7 @@
   border-collapse: collapse;
   height : 2px;
   width: 30%;
+  line-height: 5px;
 }
 
 .datatable-container .datatable,
