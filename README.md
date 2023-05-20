@@ -6,7 +6,7 @@
 </head>
 
 <center>
-<img src="Arthas_Aufmacher-buffed-pc-games4.jpg" alt="Trulli" width="500" height="333">
+<img src="Arthas_Aufmacher-buffed-pc-games4.jpg" alt="Trulli" width="400" height="333">
 </center>
 
 <body style="background-color:#2a3338;">
