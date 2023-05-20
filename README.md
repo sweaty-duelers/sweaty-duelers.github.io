@@ -82,6 +82,36 @@
         <td>0 - 1</td>
       </tr>
         
+      <tr>
+        <td><p style="color:#FFFFFF">Healingdog</p></td>
+        <td>1484</td>
+        <td>0 - 1</td>
+      </tr>
+        
+      <tr>
+        <td><p style="color:#FFFFFF">Chikago</p></td>
+        <td>1484</td>
+        <td>0 - 1</td>
+      </tr>
+        
+      <tr>
+        <td><p style="color:#0070DD">Maorri</p></td>
+        <td>1484</td>
+        <td>0 - 1</td>
+      </tr>
+        
+      <tr>
+        <td><p style="color:#FF7C0A">Loomypompayo</p></td>
+        <td>1484</td>
+        <td>0 - 1</td>
+      </tr>
+        
+      <tr>
+        <td><p style="color:#FFF468">Freedy</p></td>
+        <td>1470</td>
+        <td>0 - 2</td>
+      </tr>
+        
     </tbody>
   </table>
 
