@@ -25,9 +25,9 @@
       </tr>
         
       <tr>
-        <td><div style="height: 20px; overflow:hidden;"><b><p style="color:#8788EE">Sangrail</p></div></b></td>
-        <td><div style="height: 20px; overflow:hidden;"><b>1550</div></b></td>
-        <td><div style="height: 20px; overflow:hidden;"><b>3 - 0</div></b></td>
+        <td><div style="height: 20px"><b><p style="color:#8788EE">Sangrail</p></div></b></td>
+        <td><div style="height: 20px"><b>1550</div></b></td>
+        <td><div style="height: 20px"><b>3 - 0</div></b></td>
       </tr>
 
       <tr>
