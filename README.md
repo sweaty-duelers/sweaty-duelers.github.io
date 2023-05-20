@@ -38,10 +38,10 @@
         <td> </td>
       </tr>
         
-      <tr height="5px">
-        <td height="5px"><b><p style="color:#8788EE">Sangrail</p></b></td>
-        <td height="5px"><b>1550</b></td>
-        <td height="5px"><b><span class="greentxt">3</span> - <span class="redtxt">0</span></b></td>
+      <tr height="2px">
+        <td height="2px"><b><p style="color:#8788EE">Sangrail</p></b></td>
+        <td height="2px"><b>1550</b></td>
+        <td height="2px"><b><span class="greentxt">3</span> - <span class="redtxt">0</span></b></td>
       </tr>
 
       <tr>
