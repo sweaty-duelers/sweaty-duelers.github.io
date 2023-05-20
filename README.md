@@ -39,7 +39,7 @@
       </tr>
         
       <tr height="2px">
-        <td valign="middle;"><img src="destro.jpg" alt="" width="20" height ="20"><b><p style="color:#8788EE">Sangrail</p></b></td>
+        <td valign="middle"><img src="destro.jpg" alt="" width="20" height ="20"><b><p style="color:#8788EE">Sangrail</p></b></td>
         <td><b>1550</b></td>
         <td><b><span class="greentxt">3</span> - <span class="redtxt">0</span></b></td>
       </tr>
