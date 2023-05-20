@@ -2,7 +2,7 @@
   --primary-color: white;
   --secondary-color: rgb(61, 68, 73);
   --bg-color: #2a3338;
-  --highlight-color: #3282b8;
+  --highlight-color: rgb(61, 68, 73);
 
   --dt-status-available-color: greenyellow;
   --dt-status-away-color: lightsalmon;
