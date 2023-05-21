@@ -38,7 +38,7 @@
         <td> </td>
       </tr>
         
-      <tr height="2px">
+      <tr>
         <td><img src="destro.jpg" alt="" width="20" height ="20"></td>
         <td><b><p style="color:#8788EE">Sangrail</p></b></td>
         <td><b>1550</b></td>
