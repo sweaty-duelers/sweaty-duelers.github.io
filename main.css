@@ -53,6 +53,20 @@
   font-size: 10px;
 }
 
+
+.rules {
+  font-family: sans-serif;
+  background-color: var(--dt-background-color-container);
+  border-radius: var(--dt-border-radius);
+  color: var(--dt-text-color);
+  max-width: 1140px;
+  min-width: 950px;
+  margin: 0 auto;
+  font-size: 14px;
+  line-height: 5px;
+  vertical-align: middle;
+}
+
 .datatable-container {
   font-family: sans-serif;
   background-color: var(--dt-background-color-container);
