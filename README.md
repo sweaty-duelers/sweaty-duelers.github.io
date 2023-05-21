@@ -148,5 +148,10 @@
   </table>
 
 </center>
+    
+ <div class="row">
+  <div class="column"> col 1 </div>
+  <div class="column"> col 2 </div>
+</div> 
 
 </div>
