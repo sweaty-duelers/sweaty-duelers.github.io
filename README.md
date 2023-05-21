@@ -16,7 +16,11 @@
     }
 </style>
 
-<center>
+    
+ <div class="row">
+  <div class="column">
+      
+   <center>
 <img src="Arthas_Aufmacher-buffed-pc-games4mod.jpg" alt="Trulli" width="333" height="187" class="image">
 </center>
 
@@ -147,10 +151,13 @@
     </tbody>
   </table>
 
-</center>
+</center> 
+     
+  </div>
     
- <div class="row">
-  <div class="column"> col 1 </div>
+    
+    
+    
   <div class="column"> col 2 </div>
 </div> 
 
