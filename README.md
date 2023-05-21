@@ -148,5 +148,11 @@
   </table>
 
 </center>
+    
+    
+<center>
+<img src="rulesM.jpg" alt="Trulli" width="333" height="186" class="image">
+</center>
+    
 
 </div>
