@@ -151,7 +151,7 @@
     
     
 <center>
-<img src="rulesM.png" alt="Trulli" width="333" height="153" class="image">
+<img src="rulesM.png" alt="Trulli" width="333" height="125" class="image">
 </center>
     
 
