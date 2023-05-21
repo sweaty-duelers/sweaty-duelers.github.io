@@ -39,9 +39,9 @@
       </tr>
         
       <tr height="2px">
-        <td><img style="vertical-align:middle" src="destro.jpg" alt="" width="20" height ="20"><b><span style="vertical-align:middle"><p style="color:#8788EE">Sangrail</p></b></span></td>
+        <td>><b><p style="color:#8788EE">Sangrail</p></b></span></td>
         <td><b>1550</b></td>
-        <td><b><span class="greentxt"><img style="vertical-align:middle" src="destro.jpg" alt="" width="20" height ="20"></span><span class="redtxt"><p style="color:#8788EE">Sangrail</p></b></span></b></td>
+        <td><b><span class="greentxt"><img style="vertical-align:middle" src="destro.jpg" alt="" width="20" height ="20"></span><span class="redtxt" style="vertical-align:middle"><p style="color:#8788EE">Sangrail</p></b></span></b></td>
         <td><b><span class="greentxt">3</span> - <span class="redtxt">0</span></b></td>
       </tr>
 
