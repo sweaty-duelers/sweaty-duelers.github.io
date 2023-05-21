@@ -20,10 +20,6 @@
 <img src="Arthas_Aufmacher-buffed-pc-games4mod.jpg" alt="Trulli" width="333" height="187" class="image">
 </center>
 
-<p>Q1</p>
-<br>
-<p>Q2</p>
-
 <body style="background-color:#2a3338;">
 
 
