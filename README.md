@@ -45,6 +45,7 @@
       </tr>
 
       <tr>
+        <td><img src="preg.jpg" alt="" width="20" height ="20"></td>
         <td><b><p style="color:#F48CBA">Feganmox</p></b></td>
         <td><b>1543</b></td>
         <td height="2px"><b><span class="greentxt">4</span> - <span class="redtxt">1</span></b></td>
