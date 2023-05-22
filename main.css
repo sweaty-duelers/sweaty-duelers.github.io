@@ -28,6 +28,14 @@
   --dt-input-color: var(--primary-color);
 }
 
+.mobile-wrap {
+  overflow: hidden;
+}
+img {  
+  padding-left: 50%;
+  margin-left: -167px; /* pixel value has to be half of the image width */
+}
+
 .image {
   width: 333px;
   height: 187px;
