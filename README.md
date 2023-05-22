@@ -20,6 +20,10 @@
 <img src="TournamentBanner.jpg" alt="Trulli" width="333" height="187" class="image">
 </center>
 
+<div class="mobile-wrap">
+   <img src="TournamentBanner.jpg" width="333" height="187"/> 
+</div>
+
 <body style="background-color:#2a3338;">
 
 
