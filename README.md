@@ -126,7 +126,7 @@
         
       <tr>
         <td><img src="unholy.jpg" alt="" width="20" height ="20"></td>
-        <td><b><p style="color:#AAD372">Lovender</p></b></td>
+        <td><b><p style="color:#C41E3A">Lovender</p></b></td>
         <td><b>1485</b></td>
         <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
