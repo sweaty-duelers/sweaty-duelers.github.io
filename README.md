@@ -42,8 +42,8 @@
       <tr>
         <td><img src="destro.jpg" alt="" width="20" height ="20"></td>
         <td><b><p style="color:#8788EE">Sangrail</p></b></td>
-        <td><b>1550</b></td>
-        <td><b><span class="greentxt">3</span> - <span class="redtxt">0</span></b></td>
+        <td><b>1594</b></td>
+        <td><b><span class="greentxt">6</span> - <span class="redtxt">0</span></b></td>
       </tr>
 
       <tr>
@@ -52,19 +52,34 @@
         <td><b>1543</b></td>
         <td height="2px"><b><span class="greentxt">4</span> - <span class="redtxt">1</span></b></td>
       </tr>
-
-      <tr>
-        <td><img src="ret.jpg" alt="" width="20" height ="20"></td>
-        <td><b><p style="color:#F48CBA">Gonnafistya</p></b></td>
-        <td><b>1532</b></td>
-        <td height="2px"><b><span class="greentxt">4</span> - <span class="redtxt">2</span></b></td>
-      </tr>
-
+        
       <tr>
         <td><img src="moonkin.jpg" alt="" width="20" height ="20"></td>
         <td><b><p style="color:#FF7C0A ">Kuub</p></b></td>
         <td><b>1529</b></td>
         <td height="2px"><b><span class="greentxt">3</span> - <span class="redtxt">1</span></b></td>
+      </tr>
+
+      <tr>
+        <td><img src="ret.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#F48CBA">Gonnafistya</p></b></td>
+        <td><b>1527</b></td>
+        <td height="2px"><b><span class="greentxt">6</span> - <span class="redtxt">4</span></b></td>
+        </tr>
+        
+    
+      <tr>
+        <td><img src="sub.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#FFF468 ">Dakawana</p></b></td>
+        <td><b>1518</b></td>
+        <td height="2px"><b><span class="greentxt">2</span> - <span class="redtxt">1</span></b></td>
+      </tr>
+        
+       <tr>
+        <td><img src="shadow.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#FFFFFF ">Lacrim</p></b></td>
+        <td><b>1517</b></td>
+        <td height="2px"><b><span class="greentxt">2</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
@@ -89,8 +104,29 @@
       </tr>
         
       <tr>
+        <td><img src="feral.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#FF7C0A">Essjee</p></b></td>
+        <td><b>1486</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
+      </tr>
+        
+      <tr>
+        <td><img src="marksman.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#AAD372">Morigan</p></b></td>
+        <td><b>1486</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
+      </tr>
+        
+      <tr>
         <td><img src="sub.jpg" alt="" width="20" height ="20"></td>
         <td><b><p style="color:#FFF468">Unmercey</p></b></td>
+        <td><b>1485</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
+      </tr>
+        
+      <tr>
+        <td><img src="unholy.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#AAD372">Lovender</p></b></td>
         <td><b>1485</b></td>
         <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
@@ -124,15 +160,15 @@
       </tr>
         
       <tr>
-        <td><img src="ele.jpg" alt="" width="20" height ="20"></td>
-        <td><b><p style="color:#0070DD">Maorri</p></b></td>
+        <td><img src="moonkin.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#FF7C0A">Loomypompayo</p></b></td>
         <td><b>1484</b></td>
         <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
       <tr>
-        <td><img src="moonkin.jpg" alt="" width="20" height ="20"></td>
-        <td><b><p style="color:#FF7C0A">Loomypompayo</p></b></td>
+        <td><img src="marksman.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#AAD372">Alipahjornet</p></b></td>
         <td><b>1484</b></td>
         <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
@@ -141,6 +177,13 @@
         <td><img src="sub.jpg" alt="" width="20" height ="20"></td>
         <td><b><p style="color:#FFF468">Freedy</p></b></td>
         <td><b>1470</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">2</span></b></td>
+      </tr>
+        
+      <tr>
+        <td><img src="ele.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#0070DD">Maorri</p></b></td>
+        <td><b>1469</b></td>
         <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">2</span></b></td>
       </tr>
         
