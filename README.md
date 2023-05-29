@@ -125,13 +125,6 @@
       </tr>
         
       <tr>
-        <td><img src="marksman.jpg" alt="" width="20" height ="20"></td>
-        <td><b><p style="color:#AAD372">Morigan</p></b></td>
-        <td><b>1486</b></td>
-        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
-      </tr>
-        
-      <tr>
         <td><img src="sub.jpg" alt="" width="20" height ="20"></td>
         <td><b><p style="color:#FFF468">Unmercey</p></b></td>
         <td><b>1485</b></td>
@@ -166,12 +159,6 @@
         <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
       </tr>
         
-      <tr>
-        <td><img src="shadow.jpg" alt="" width="20" height ="20"></td>
-        <td><b><p style="color:#FFFFFF">Chikago</p></b></td>
-        <td><b>1484</b></td>
-        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">1</span></b></td>
-      </tr>
         
       <tr>
         <td><img src="moonkin.jpg" alt="" width="20" height ="20"></td>
@@ -213,6 +200,20 @@
         <td><b><p style="color:#0070DD">Maorri</p></b></td>
         <td><b>1469</b></td>
         <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">2</span></b></td>
+      </tr>
+        
+      <tr>
+        <td><img src="shadow.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#FFFFFF">Chikago</p></b></td>
+        <td><b>1456</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">3</span></b></td>
+      </tr>
+        
+      <tr>
+        <td><img src="marksman.jpg" alt="" width="20" height ="20"></td>
+        <td><b><p style="color:#AAD372">Morigan</p></b></td>
+        <td><b>1454</b></td>
+        <td height="2px"><b><span class="greentxt">0</span> - <span class="redtxt">3</span></b></td>
       </tr>
         
     </tbody>
