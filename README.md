@@ -86,7 +86,7 @@
         <td><img src="frost.jpg" alt="" width="20" height ="20"></td>
         <td><b><p style="color:#3FC7EB">Demonflu</p></b></td>
         <td><b>1519</b></td>
-        <td height="2px"><b><span class="greentxt">3</span> - <span class="redtxt">1</span></b></td>
+        <td height="2px"><b><span class="greentxt">3</span> - <span class="redtxt">2</span></b></td>
         </tr>
         
       <tr>
